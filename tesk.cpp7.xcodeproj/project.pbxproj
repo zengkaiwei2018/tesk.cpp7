@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		D944DA1622CCD57600485067 /* tesk.cpp7 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = tesk.cpp7; sourceTree = BUILT_PRODUCTS_DIR; };
 		D944DA1922CCD57600485067 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D944DA2022CCDD8F00485067 /* tesk.cpp7 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = tesk.cpp7; sourceTree = "<group>"; };
+		D944DA2122CCDE5900485067 /* tesk.cpp7 */ = {isa = PBXFileReference; lastKnownFileType = folder; name = tesk.cpp7; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				D944DA1922CCD57600485067 /* main.cpp */,
+				D944DA2122CCDE5900485067 /* tesk.cpp7 */,
+				D944DA2022CCDD8F00485067 /* tesk.cpp7 */,
 			);
 			path = tesk.cpp7;
 			sourceTree = "<group>";
